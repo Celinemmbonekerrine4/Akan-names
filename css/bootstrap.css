@@ -72,6 +72,12 @@ hr {
   height: 0;
   overflow: visible;
 }
+h1{
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -81,6 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  color: #80bdff;
 }
 
 abbr[title],
@@ -551,6 +558,8 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  font-family: 'Enriqueta', serif;
+  font-family: 'Anton', sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -603,6 +612,9 @@ pre code {
 .no-gutters > [class*="col-"] {
   padding-right: 0;
   padding-left: 0;
+}
+.col-md-4{
+  align-items: center;
 }
 
 .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
