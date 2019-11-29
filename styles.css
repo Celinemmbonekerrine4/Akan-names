@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+.col-md-4 p{
+    font-family: 'Enriqueta', serif;
+    
+}
+h2{
+    font-family: 'Anton', sans-serif; 
+    color: coral; 
+}
+span{
+    color: coral;
+}
