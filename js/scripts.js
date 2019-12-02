@@ -20,6 +20,6 @@ function naming(name);{
       alert("No blank values allowed");
   }
   else{
-
+    
   }
 }
