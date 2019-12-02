@@ -72,12 +72,7 @@ hr {
   height: 0;
   overflow: visible;
 }
-h1{
-  font-size: 50px;
-  text-align: center;
-  font-family: 'Anton', sans-serif;
 
-}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -87,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #80bdff;
+  color: cornflowerblue;
 }
 
 abbr[title],
@@ -107,6 +102,9 @@ address {
   line-height: inherit;
 }
 
+ul{
+  color: cornflowerblue;
+}
 ol,
 ul,
 dl {
@@ -558,8 +556,6 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  font-family: 'Enriqueta', serif;
-  font-family: 'Anton', sans-serif;
 }
 
 @media (min-width: 576px) {

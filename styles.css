@@ -19,3 +19,9 @@ h2{
 span{
     color: coral;
 }
+h1:hover{
+    color: coral;
+}
+span:hover{
+    color: black;
+}
